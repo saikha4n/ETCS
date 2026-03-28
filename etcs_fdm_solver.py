@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 AISU-ETCS Unified Theory: FDM Solver
 Solves the X field equation in 3D pyramid geometry
